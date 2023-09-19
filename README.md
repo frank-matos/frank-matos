@@ -3,7 +3,8 @@
 - 🌱 I’m currently working as IT recruiter ...
 - 💞️ I’m looking to provide good job opportunities for Cuban IT professionals
 - 📫 How to reach me: matos@cuban.engineer
-- 📫 take a look at https://odoo.cuban.engineer/jobs
+- 📫 take a look at our job opportunities at https://cuban.engineer/jobs
+- 🧠 You can also join our talent pool at https://cuban.engineer/talent
 
 
 <!---
